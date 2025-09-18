@@ -4,13 +4,17 @@ ESP32-based sim racing dashboard for Assetto Corsa, featuring F1-style real-time
 # Assetto Corsa F1 Telemetry Dashboard (ESP32 + SSD1306)
 
 An embedded telemetry dashboard for the Assetto Corsa racing simulator. This project uses an ESP32 microcontroller connected to an OLED SSD1306 display and receives live car telemetry (speed, gear, lap time, pit status, car name) via a serial link from a Python script running pc-side. Ideal for F1 fans, makers, and sim racers seeking real-time, physical HUD visualization.
-## Project Setup Photos
 
-(f1_telemetry.jpg)
+## Hardware Setup
 
-(pit_modejpg)
+This is what the dashboard looks like on the breadboard:
 
-(startupmode.jpg)
+![Dashboard Setup](startupmode.jpg)
+
+![Pit-lane mode](pit_mode.jpg)
+
+![telemetry layout](f1_telemetry.jpg)
+
 
 
 ## Features
