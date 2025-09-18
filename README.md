@@ -9,11 +9,13 @@ An embedded telemetry dashboard for the Assetto Corsa racing simulator. This pro
 
 This is what the dashboard looks like on the breadboard:
 
-![Dashboard Setup](startupmode.jpg)
+## Project Setup Photos
 
-![Pit-lane mode](pit_mode.jpg)
+<img src="startupmode.jpg" width="350">
 
-![telemetry layout](f1_telemetry.jpg)
+<img src="pit_mode.jpg" width="350">
+
+<img src="f1_telemetry.jpg" width="350">
 
 
 
