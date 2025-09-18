@@ -32,7 +32,7 @@ This is what the dashboard looks like on the breadboard:
 
 ## Software Required
 - Python 3 (for telemetry extraction script)
-- [pyaccsharedmemory](https://github.com/gRally/pyAccSharedMemory) Python library
+- pyaccsharedmemory Python library
 - Arduino IDE (for ESP32 code), or PlatformIO alternative
 
 ## Wiring
