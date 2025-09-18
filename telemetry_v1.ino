@@ -11,6 +11,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 #define I2C_SDA 21
 #define I2C_SCL 22
 
+
 unsigned long lastUpdate = 0;
 const int refreshRate = 100; // ms
 
