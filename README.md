@@ -47,19 +47,6 @@ An embedded telemetry dashboard for the Assetto Corsa racing simulator. This pro
 - On driving, dashboard displays real-time info.
 - PIT MODE indicator flashes when car enters pits.
 
-## Files In This Repo
-
-| File                 | Description                               |
-|----------------------|-------------------------------------------|
-| main.ino             | ESP32 dashboard firmware                  |
-| telemetry_extract.py | Python script for Assetto Corsa telemetry |
-| requirements.txt     | Python dependencies list                  |
-| schematic.png        | Optional wiring diagram                   |
-| README.md            | Project overview and guide                |
-| LICENSE              | Optional: code license                    |
-
-## License
-MIT or your choice (add a LICENSE file).
 
 ## Credits
 Inspired by F1 dashboard displays and the Assetto Corsa modding community.
